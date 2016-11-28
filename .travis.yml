@@ -4,7 +4,7 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: JahatvyBfWqZOFed9LENkUToi1xn6T9osHcQE+v37zvbMgSExaRRtJAhHxHTefobwrUuAUGTwRYCLB57o3ElWTifJZ1Ss2+PGZe0r7FLuz+ZtjdfTrUXfT3hccTBEjufv4kKMA4XXIEJoyMCpy12kypU8BoRIGhIMS/bKjcY93ZJCDQEJMkaa6F0gb42GRzh9N0XpwZge/EwZdGl4Fu4s+hvXLTJSIf5Jqg+Kew6O1moSEekUyvuf3ufi43m82fmhPwW047xx//AHHpVRzmzaWDNbZ6tlA5lOW+XO71vsLBTsUBH+deLuK2JNTc9yTOf32YkiJ0E+WuUdQXC2sIZFEJEQeM/+dR5i7yxNKA1OtWAlf2+KbWG5ZLXN52aWjNSVd1M/nOJ1CrTuFfkYCV3awyYn8qDbeZh+I5qw7yUh5pis5eRcbkprtI8FcIsZ6BEZqJER3gnxwaJPmzdf4oEZe+47NgkqMN4Y8CN1Gm99G3Z820SHsN9LkLHqvueyg7+wKriFWClRV6QhRYihu9OidCePsbTX87ExHrjXPGKgba90sqwvxh/AiCi/O+q3resYj/HbNsxdUyGHxYr1nw9XsglvJEcd9buV86wHKxYZnYXDsro/cV1FHjw8yfHKqGbLQPi2A3kGjiwMRn8U6NJ6FBJDt6xtHORdjy3UgxuS9U=
-  app: guarded-sands-29623
+    secure: 
+  app: aqueous-forest-43046
   on:
-    repo: zeyizhou/projet
+    repo: jwang04/projet

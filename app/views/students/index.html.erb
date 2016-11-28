@@ -13,9 +13,9 @@
         <td><%= student.name %></td>
         <td><%= student.surname %></td>
         <td><%= student.birthday %></td>
-				<td><%= link_to("Show", student, class: "btn btn-primary btn-sm") %></td>
-        <td><%= link_to('Edit', edit_student_path(student), class: "btn btn-warning btn-sm") %></td>
-        <td><%= link_to( 'Destroy', student, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger btn-sm") %></td>
+				<td><%= link_to("Show", student, class: "btn btn-success") %></td>
+        <td><%= link_to('Edit', edit_student_path(student), class: "btn btn-success") %></td>
+        <td><%= link_to( 'Destroy', student, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-success ") %></td>
       </tr>
     <% end %>
    </tbody>
