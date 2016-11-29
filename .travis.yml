@@ -8,3 +8,9 @@ deploy:
   app: aqueous-forest-43046
   on:
     repo: jwang04/projet
+addons:
+  code_climate:
+    repo_token: <f4d10e48d3d634fc675698b4021c94649f2ec37cbfa009a255beaf6869f9ee48>
+# regular test configuration
+after_success:
+  - bundle exec codeclimate-test-reporter
