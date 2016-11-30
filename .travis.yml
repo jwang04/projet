@@ -4,7 +4,7 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: 
+    secure: 42dee0e72d024011c4d64cd283653dc71da52d4c3d1ef95d1e312580c983f5e22ac94160913fce8476ad2ae66fd07b93e2d523e0db7e639c70ce8a5a0b201043
   app: aqueous-forest-43046
   on:
     repo: jwang04/projet
